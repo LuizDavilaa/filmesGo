@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "filmesGo"
+    }
+  },
+  "defaultProject": "filmesGo",
+  "cli": {
+    "analytics": "3b73e19c-a5db-40cc-99bf-843a99cb38af"
+  }
 }
